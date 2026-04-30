@@ -1,4 +1,11 @@
 body {
     color: #333333;
     line-height: 1.8;
+
+    max-width: 800px;
+    margin: 0 auto;  
+    padding: 40px 20px; 
+    background-color: #fafafa;
+
+    
 }
