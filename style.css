@@ -6,6 +6,21 @@ body {
     margin: 0 auto;  
     padding: 40px 20px; 
     background-color: #fafafa;
+}
 
-    
+h1 {
+	color: white;
+	text-shadow: 2px 2px 5px navy;
+}
+
+h2 {
+	margin: 5px;
+	color: #3f3faf;
+	background: linear-gradient(to right, white,#ffefaf);
+}
+
+h3 {
+	margin: 5px;
+	color: #f09199;
+	background: linear-gradient(to right, white,#ffefaf);
 }

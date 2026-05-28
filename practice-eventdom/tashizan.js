@@ -8,3 +8,4 @@ function greeting() {
     let sum = lNum + rNum;
     let Answer = document.querySelector("span#answer");
     Answer.textContent = sum;
+}
