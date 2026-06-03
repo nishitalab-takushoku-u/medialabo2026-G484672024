@@ -1,0 +1,50 @@
+body {
+    color: #333333;
+    padding: 20px; 
+    background-color: #dfdfdf;
+}
+
+h1 {
+    font-size: 24pt;
+    color: white;
+    background-color: navy;
+    text-align: center;
+    padding: 15px;
+}
+
+p {
+    background-color: white;
+    padding: 15px;
+    border: 2px solid navy;
+}
+
+button {
+    background-color: navy;
+    color: white;
+    padding: 5px 15px;
+    font-size: 10pt;
+}
+
+div#result {
+    background-color: #ffefaf; 
+    padding: 20px;
+    border: 2px solid navy;
+}
+
+div#result h2 {
+    color: navy;
+    background-color: white;
+    padding: 5px 10px;
+    border-left: 5px solid navy;
+}
+
+ul {
+    background-color: white;
+    padding: 15px 15px 15px 40px;
+    border: 1px solid navy;
+}
+
+li {
+    margin-bottom: 5px;
+    color: navy;
+}
